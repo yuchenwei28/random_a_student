@@ -3,11 +3,11 @@
     "description": "抽从(-1000~1000)到(-1000~1000)的任意一个学号",
     "version": "1.0.0",
     "plugin_ver": 1,
-    "author": "俞辰葳",
+    "author": "yuchenwei28",
     "settings": true,
 
-    "url": "https://github.com/{repo-owner}/{repo}",
+    "url": "https://github.com/yuchenwei28/random_a_student/",
     "branch": "main",
 
-    "update_date": "yyyy/mm/dd"
+    "update_date": "2025/03/28"
 }
