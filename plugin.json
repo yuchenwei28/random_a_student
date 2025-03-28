@@ -1,9 +1,9 @@
 {
-    "name": "Class Widgets 插件模板",
-    "description": "这里是简介，用简短的语言描述插件的功能。",
+    "name": "抽学号工具",
+    "description": "抽从(-1000~1000)到(-1000~1000)的任意一个学号",
     "version": "1.0.0",
     "plugin_ver": 1,
-    "author": "你的名字",
+    "author": "俞辰葳",
     "settings": true,
 
     "url": "https://github.com/{repo-owner}/{repo}",
